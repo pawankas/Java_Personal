@@ -1,0 +1,5 @@
+package org.cybage.bean;
+
+public class Product {
+
+}

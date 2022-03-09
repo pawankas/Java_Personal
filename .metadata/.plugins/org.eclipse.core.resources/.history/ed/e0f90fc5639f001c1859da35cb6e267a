@@ -1,0 +1,5 @@
+package org.cybage.dao;
+
+public class ProductDao {
+
+}

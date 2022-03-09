@@ -1,0 +1,5 @@
+package org.cybage.controller;
+
+public class MyServlet {
+
+}
